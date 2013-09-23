@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-//Test Git
-
 public class Overall {
 
 	ArrayList<ArrayList<Game>> mainGame = new ArrayList<ArrayList<Game>>();
